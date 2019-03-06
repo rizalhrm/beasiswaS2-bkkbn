@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteRule ^alumni\.php$ beranda.php?page=alumni [L]
+RewriteRule ^tentang\.php$ beranda.php?page=tentang [L]
+RewriteRule ^kontak\.php$ beranda.php?page=kontak [L]
+RewriteRule ^persyaratan\.php$ beranda.php?page=persyaratan [L]
+RewriteRule ^ketentuan\.php$ beranda.php?page=ketentuan [L]
+RewriteRule ^jadwal_kegiatan\.php$ beranda.php?page=jadwal_kegiatan [L]
+RewriteRule ^dokumen\.php$ beranda.php?page=dokumen [L]
+RewriteRule ^panduan\.php$ beranda.php?page=panduan [L]
